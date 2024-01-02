@@ -1,0 +1,48 @@
+.button{
+    background-color: rgb(7, 131, 7);
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border: none;
+    cursor: progress;
+    font-size: large;
+    border-radius: 5px;
+    transition: 0.3s;
+    margin-right: 10px;
+    margin-left: 10px;
+    
+}
+.button:hover{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 0px;
+    margin-right: 0px;
+
+
+}
+
+#shadow{
+    background-color: green;
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border: none;
+    border-radius: 5px;
+    font-size: large;
+    cursor: progress;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+#shadow:active{
+    background-color:green;
+    box-shadow: none;
+    margin-top: 3px;
+    margin-left: 3px;
+    transition: 0.30s;
+    
+}

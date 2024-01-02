@@ -1,0 +1,113 @@
+body{
+    background-color: rgb(187, 183, 183);
+}
+.div1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    
+    
+}
+.div2{
+    padding-top: 1px;
+    padding-bottom: 6px;
+    background-color: white;
+    text-align: left;
+    border-radius: 10px;
+    width: 500px;
+
+}
+h1{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    margin-bottom: 0;
+    margin-left: 10px;
+    font-weight: bold;
+}
+#second{
+
+    margin-left: 0px;
+    margin-top: 1px;
+    margin-bottom: 0px;
+    font-style: italic;
+    color: red;
+    padding-left: 10px;
+}
+
+.div3{
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 10px;
+    padding-top: 1px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    padding-bottom: 12px;
+    width: 490px;
+    
+    
+}
+h3{
+    margin-top: 10px;
+    margin-bottom: 2px;
+    font-size: larger;
+    font-size: 20px;
+}
+
+h5{
+    color: gray;
+    font-size: 16px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#third{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 270px;
+}
+.button{
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color: rgb(2, 143, 2);
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
+.div4{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    text-align: center;
+    width: 500px;
+    height: 110px;
+    border-radius: 10px;
+}
+.span{
+    color: rgb(21, 173, 233);
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#lastp{
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 8px;
+}
+.header{
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 10px;
+}

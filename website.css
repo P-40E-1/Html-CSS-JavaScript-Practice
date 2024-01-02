@@ -1,0 +1,75 @@
+.sub-button{
+    background-color: rgb(187, 6, 6);
+    color: white;
+    border: none;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-right: 10px;
+    cursor: pointer;
+    vertical-align: top;
+}
+/* this works when we hover the curson over then element*/
+.sub-button:hover{
+    background-color: gray;
+}
+/* this workd when we click the button */
+.sub-button:active{
+    background-color: green;
+}
+
+.join-button{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border: none;
+    border-radius: 30px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    cursor: pointer;
+    vertical-align: top;
+    margin-right: 8px;
+    transition: background-color 1s,
+        color 1s; /*always put the transition inside the main*/
+
+}
+
+.join-button:hover{
+    background-color: skyblue;
+    color:black;
+}
+
+.join-button:active{
+    opacity: .5;
+}
+
+#twitter-button{
+    background-color: rgb(2, 170, 248);
+    color: white;
+    border: none;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 9.5px;
+    padding-bottom: 9.5px;   
+    border-radius: 15px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 14px;
+    vertical-align: top;
+    transition: box-shadow 0.3s;
+    
+}
+
+#twitter-button:hover{
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.16); 
+    /*first position id the horizontal postion
+    second value is the vertical postion and 
+    third value is the blur
+    and the last one is for the color
+    and inside the rgba last one is a value
+    the lower it is the more transparent it gets*/
+}
